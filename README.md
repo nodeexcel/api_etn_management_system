@@ -1,1 +1,1 @@
-# proprietary
+# ETN Management
